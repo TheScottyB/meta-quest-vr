@@ -97,3 +97,6 @@ InitTestScene*.unity*
 
 # Auto-generated scenes by play mode tests
 /[Aa]ssets/[Ii]nit[Tt]est[Ss]cene*.unity*
+
+# orphan duplicate-import folder stubs (runaway "XR N.meta" junk, cleaned 2026-08-15)
+/Assets/XR [0-9]*.meta

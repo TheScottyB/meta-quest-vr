@@ -5,22 +5,23 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/OutdoorsScene.unity
     guid: 8124e5870f4fd4c779e7a5f994e84ad1
   m_configObjects:
-    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: e7b67efdae2ee3246a270e86cdb8184c,
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: f3f8bdea0e261408880d88aa43c1bd32,
       type: 2}
     UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: f29871fc3313ad84dbda42e789dd8db3,
       type: 2}
     UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: e2f5f677fc267994cb17025ab86491c5,
       type: 2}
+    com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000,
+      guid: e3f48c2f99abf41e7841a3e06b975ef3, type: 2}
     com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: 70fd5e7a13f30d341a4bcfd8bfec42b3,
       type: 2}
-    com.unity.xr.magicleap.magic_leap_settings: {fileID: 11400000, guid: 150194ac55846b245a9e718622e5d87b,
+    com.unity.xr.magicleap.magic_leap_settings: {fileID: 11400000, guid: d484a7a68ef7742d492f447a64c58d58,
       type: 2}
-    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 15120aa5d450f054cbdf5cc4147e3054,
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: be2ce424b825840519b4a0e747161006,
       type: 2}
-    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: bc6149fc19f67a34e98dd232b9c55715,
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 3085ea95497e9489895ce62e7ce64a5b,
       type: 2}
-  m_UseUCBPForAssetBundles: 0
